@@ -1,7 +1,13 @@
-{
+[
 "profile":
  {"Block": "A block",
   "id":12,
  "water consumed": 5000.15
+ },
+ {
+  "Block":" B block",
+   "id":13,
+   "water consumed":400.24
  }
-}
+ ]
+
